@@ -20,7 +20,7 @@ It will first generate perturbed images with ASPL attack and train the dreamboot
 
 Run ASPL_REM attack:
 ```bash
-bash scripts/aspl_REM.sh
+bash scripts/attack_with_aspl_REM.sh
 ```
 It will generate perturbed images with ASPL_REM attack.
 
